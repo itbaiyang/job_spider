@@ -87,4 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
-./config.py
+.idea/*
+.gitignore
+.config
+.config.py
