@@ -4,7 +4,7 @@ import time
 
 import requests
 
-from spider.config import default_key, default_u
+from config import default_key, default_u
 
 
 def md5(data):
