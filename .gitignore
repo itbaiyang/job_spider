@@ -89,5 +89,4 @@ ENV/
 .ropeproject
 .idea/*
 .gitignore
-.config
-.config.py
+config.py
