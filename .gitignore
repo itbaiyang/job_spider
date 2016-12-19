@@ -87,4 +87,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
-./spider/config.py
+.spider/config.py
