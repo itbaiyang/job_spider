@@ -72,7 +72,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'job_spider.wsgi.application'
 
-CORS_ORIGIN_ALLOW_ALL = True
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
 
@@ -121,3 +120,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_URL = '/static/'
+
+CORS_ORIGIN_ALLOW_ALL = True
